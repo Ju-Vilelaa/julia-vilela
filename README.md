@@ -1,2 +1,3 @@
-# julia-vilela
-Um pouco sobre mim
+# Oie! Bem vindo(a) ao meu perfil do GitHub! Meu nome é Júlia Vilela
+
+
